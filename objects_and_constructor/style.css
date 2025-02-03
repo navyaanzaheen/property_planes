@@ -1,0 +1,32 @@
+.col-md-3{
+    background-color: aquamarine;
+}
+
+
+#d1{
+    margin-top: 19px;
+    text-align: center;
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: 1px soid black;
+    background-color:goldenrod;
+    width: 98%;
+    height: 10vh;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+
+.container{
+    height: auto;
+    /* display: flex; */
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+    text-align: center;
+}
