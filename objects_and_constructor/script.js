@@ -37,20 +37,20 @@ document.getElementById('pl1t').textContent = "Transfer: " + plan1.transfer;
 document.getElementById('pl1p').textContent = "Pages: " + plan1.pages;
 document.getElementById('pl1d').textContent = "Discount Months: " + plan1.discountMonths;
 
-document.getElementById('pl2n').textContent = "Name: " + plan3.name;
-document.getElementById('pl2pr').textContent = "Price: $" + plan3.price;
+document.getElementById('pl2n').textContent = "Name: " + plan2.name;
+document.getElementById('pl2pr').textContent = "Price: $" + plan2.price;
 document.getElementById('pl2s').textContent = "Space: " + plan3.space;
-document.getElementById('pl2t').textContent = "Transfer: " + plan3.transfer;
-document.getElementById('pl2p').textContent = "Pages: " + plan3.pages;
-document.getElementById('pl2d').textContent = "Discount Months: " + plan3.discountMonths;
+document.getElementById('pl2t').textContent = "Transfer: " + plan2.transfer;
+document.getElementById('pl2p').textContent = "Pages: " + plan2.pages;
+document.getElementById('pl2d').textContent = "Discount Months: " + plan2.discountMonths;
         
 
-document.getElementById('pl3n').textContent = "Name: " + plan2.name;
-document.getElementById('pl3pr').textContent = "Price: $" + plan2.price;
-document.getElementById('pl3s').textContent = "Space: " + plan2.space;
-document.getElementById('pl3t').textContent = "Transfer: " + plan2.transfer;
-document.getElementById('pl3p').textContent = "Pages: " + plan2.pages;
-document.getElementById('pl3d').textContent = "Discount Months: " + plan2.discountMonths;
+document.getElementById('pl3n').textContent = "Name: " + plan3.name;
+document.getElementById('pl3pr').textContent = "Price: $" + plan3.price;
+document.getElementById('pl3s').textContent = "Space: " + plan3.space;
+document.getElementById('pl3t').textContent = "Transfer: " + plan3.transfer;
+document.getElementById('pl3p').textContent = "Pages: " + plan3.pages;
+document.getElementById('pl3d').textContent = "Discount Months: " + plan3.discountMonths;
 
 
 
